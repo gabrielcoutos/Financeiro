@@ -1,0 +1,99 @@
+﻿CONTRATO DE MÚTUO
+
+
+CONTRATO – #gerado
+
+Pelo presente instrumento particular, de um lado, 
+
+FFE-Factoring Eireli, empresa de capital privado, registrada no CNPJ sob o nº 27.434.310/0001-70, com sede na Rua Melo Viana, 587, sala 2, Centro, São Lourenço/MG, CEP 37470-000, neste ato representada na forma de seu estatuto social ( “Mutuário”); 
+
+E, de outro lado,
+
+#nome, inscrito(a) no CPF sob o nº #cpf e no RG nº #rg, residente e domiciliado(a) à #endereco, #numero, #bairro, #cidade/#estado, CEP #cep,  neste ato representada na forma de seu estatuto social ( “Mutuante”);
+
+O Mutuante, devidamente qualificado junto ao sistema; 
+
+Mutuante e Mutuário doravante individualmente referidas como “Parte” e, em conjunto, como “Partes”. 
+
+RESOLVEM as Partes celebrar o presente Contrato de Mútuo (“Contrato”), de acordo com as seguintes cláusulas e condições: 
+
+CLÁUSULA PRIMEIRA – OBJETO 
+
+        1.1. Principal. Pelo Contrato, o Mutuante empresta ao Mutuário o montante descrito no sistema, em moeda corrente nacional (“Principal”), nos termos do art. 586 da Lei nº 10.406/2002, pelo prazo e de acordo com as seguintes cláusulas e condições reguladas pelo Contrato. 
+
+        1.2. Desembolso. O desembolso do Principal será realizado pela Mutuante mediante transferência eletrônica de recursos imediatamente disponíveis, para conta corrente ou outro meio de pagamento previamente informado e acordado de titularidade do Mutuário. 
+
+Banco do Brasil
+Ag 0983
+CC 31569-9
+Razão Social: FFE - Factoring Eireli
+CNPJ 27.434.310/0001-70
+
+
+CLÁUSULA SEGUNDA – PRAZO DE VIGÊNCIA E PAGAMENTO 
+
+2.1. Prazo de Vigência. O presente contrato terá vigência inicial de 6 meses, onde neste prazo o Mutuante não poderá solicitar a restituição do valor aportado. Passado o referido prazo, o Mutuante poderá renovar o presente contrato mensalmente sem necessidade de assinatura de novo contrato.
+2.1.1. Em sendo renovado automaticamente, o Mutuante poderá solicitar a restituição a qualquer momento, devendo o Mutuário restituir o principal e os juros no prazo de 30 dias da data de aniversário do contrato. 
+
+2.2. Juros. Até a Data de Encerramento, o Mutuário pagará para a Mutuante, mensalmente, no mesmo dia em que o valor foi aportado, juros no valor de 2,5% calculado sobre o Principal (“Juros”). 
+
+2.3. O Mutuante opta pelo recebimento dos Juros devidos em cada mês em seu valor integral, obrigatoriamente em conta de sua titularidade.
+
+
+2.3.1. Os fechamentos dos períodos de rentabilidade, para fins de pagamento dos Juros, são feitos mensalmente, no mesmo dia em que foi aportado no mês anterior, até a Data de Encerramento, consiste no aniversário do Contrato,  sempre respeitando a proporcionalidade da rentabilidade afixada. 
+
+2.4. O pagamento do Principal, e dos Juros quando aplicável, será realizado mediante transferência eletrônica de recursos imediatamente disponíveis para conta corrente ou outro meio de pagamento previamente informado e acordado de titularidade do Mutuário. 
+
+2.5. Os tributos que incidem, ou venham a incidir, sobre os valores objeto do Contrato serão de responsabilidade do mutuário, na forma da legislação tributária aplicável. 
+
+CLÁUSULA TERCEIRA – DISTRATO, REAJUSTE E OUTRAS AVENÇAS 
+
+3.1. Na hipótese de o pagamento dos Juros, no valor estipulado na Cláusula 2.2., tornar-se impraticável e insustentável, financeiramente, devido às questões políticas e comerciais, caso fortuito ou força maior, o Mutuário comunicará o Mutuante, com no mínimo 30 (trinta) dias de antecedência, a respeito da situação, sobre a qual: 
+
+3.1.1. O Mutuante poderá optar: (I) por negociar com o Mutuário o reajuste do valor pago à título de juros mensais, com a consequente continuidade do Contrato sob as novas avenças estipuladas entre as Partes, ou (II) pelo distrato do Contrato, hipótese em que o Mutuante receberá o Principal acrescido dos Juros calculados proporcionalmente ao tempo de vigência do Contrato, não incorrendo doravante nenhum passivo para qualquer uma das Partes; ou 
+
+3.1.2. O Mutuário, com a anuência do Mutuante, poderá optar por acordar com o Mutuante uma prorrogação da Data de Encerramento do Contrato, em que o Mutuante ficará comprometido a manter, em custódia do Mutuário, parcela substancial do Principal por um prazo relevante, cujas especificidades e detalhes serão então acordados entre as Partes. 
+
+3.3. No caso de insolvência do Mutuário, poderá o Mutuante solicitar a restituição dos valores principais, cobrando inclusive diretamente dos representantes do Mutuário, sendo o patrimônio deste a garantia do presente contrato, inclusive as demais empresas do qual este é sócio.
+
+CLÁUSULA QUARTA – DISPOSIÇÕES GERAIS 
+
+4.1. Eventuais colapsos no Sistema Bancário podem inviabilizar a movimentação de valores. Nessas hipóteses, nenhuma das Partes será responsabilizada por quaisquer danos ou prejuízos sofridos pela contraparte em decorrência do evento, quanto às previsões do Contrato. 
+
+4.1.1. As Partes estabelecem que a notória impossibilidade de transferência de valores do Mutuário para o Mutuante, nos casos de colapso no Sistema Bancário, não configura causa para a dissolução do Contrato. 
+
+4.2. Nenhuma das Partes poderá pedir o distrato/liquidação imediato/a do Contrato, ainda que parcialmente, restando assim estabelecido que o pedido de distrato do Contrato deverá ocorrer com, no mínimo, 30 (trinta) dias de antecedência, independente do vencimento do pagamento dos Juros mensais, não incorrendo, com isso, em prejuízo algum o Mutuante, que receberá o Principal e os Juros devidos. 
+
+4.3. Qualquer omissão ou tolerância das Partes em exigir o estrito cumprimento das obrigações ora contratadas, ou em exercer quaisquer direitos decorrentes do Contrato, não constituirá novação ou renúncia, nem afetará o seu direito de exercê-los a qualquer tempo. 
+
+4.4. No caso de falecimento, incapacitação civil, convocação militar, ou qualquer outra razão inerente a vontade de qualquer uma das Partes, que impossibilite, no caso do Mutuário: de utilizar o Principal emprestado, ou, no caso do Mutuante: de administrar seus ativos, o Contrato considerar-se-á dissolvido, sem qualquer prejuízo ou responsabilidade imputável às Partes. Em caso de impossibilidade do Mutuário, este restituirá os valores conforme previsto na cláusula terceira. Em sendo o mutuante, seus herdeiros deverão solicitar a restituição da maneira em que a lei determinar, sendo que, os rendimentos continuarão sendo pagos normalmente.
+
+4.5. Todas as informações referentes e constantes no Contrato, bem como nos documentos correlatos ao Contrato, somente podem ser usadas para os fins previstos no Contrato. 
+
+4.5.1. Exceções somente serão admitidas mediante documento, confeccionado e assinado pelo Mutuário, expressamente autorizando a abertura das informações constante no Contrato. 
+
+4.5.2. Qualquer prejuízo decorrente da inobservância das Cláusulas 4.5. e 4.5.1., decorrente da conduta de qualquer uma das Partes, deverá ser solucionado e ressarcido pelo responsável. 
+
+4.6. Somente a assinatura eletrônica do Contrato pelas Partes não importa em aceitação de movimentação de valores pelo Mutuário. Para tanto, o Mutuante deverá comunicar o Mutuário a respeito, para então receber a devida autorização do Mutuário e, sucessivamente, proceder com a movimentação dos valores. 
+
+4.7. As Partes acordam em, isolada e/ou conjuntamente, cooperar e fazer tudo o que for necessário ou adequado, bem como assinar ou entregar, ou fazer com que sejam assinados ou entregues todos os documentos adequados ou necessários, de modo a possibilitar que as Partes cumpram com suas obrigações estabelecidas no Contrato. 
+
+4.8. Qualquer notificação ou comunicação exigida ou permitida nos termos do Contrato deverá ser feita por escrito e será reputada quando entregue, recebida e aceitada eletronicamente à Parte a ser notificada ou mediante correspondência, com recibo de entrega, aos endereços indicados no preâmbulo para cada uma das Partes, sendo, em qualquer caso, considerada como efetivada na data do seu recebimento. 
+
+4.9. O presente Contrato somente poderá ser alterado por meio de instrumento por escrito devidamente assinado eletronicamente pelas Partes. 
+
+4.10. O Contrato e os direitos e obrigações das Partes nos termos do Contrato serão regidos, interpretados e executados de acordo com as Leis da República Federativa do Brasil. 
+
+4.11. As Partes elegem o foro da Comarca de São Lourenço/MG para dirimir quaisquer dúvidas ou litígios que eventualmente possam surgir em decorrência do Contrato. 
+
+E, POR ESTAREM ASSIM JUSTAS E ACORDADAS, as Partes assinam o presente Contrato de forma digital, com inserção de senha do Mutuante e Mutuário, valendo a confirmação do sistema como assinatura do presente instrumento. 
+
+São Lourenço, #data.
+
+
+_______________________
+MUTUÁRIO
+
+#nome
+________________________
+MUTUANTE 
